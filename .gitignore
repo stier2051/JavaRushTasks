@@ -1,0 +1,12 @@
+﻿#############
+## Idea
+#############
+target/
+*.iml
+*.iws
+*.class
+*.jar
+
+/out/
+/out.log
+/out.log.*
